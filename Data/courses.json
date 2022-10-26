@@ -1,7 +1,7 @@
 [
     {
     "id": 1,
-    "name": "Complete Algorithms Complexity and Big O Notation Course ",
+    "name": "Complete Algorithms Complexity",
     "price": 17.99,
     "description": "From beginner to professional in 2 hours!",
     
@@ -23,7 +23,7 @@
 
 {
     "id": 2,
-    "name": "Time and space complexity analysis (big-O notation) ",
+    "name": "Time and space complexity analysis",
     "price": 13.99,
     "description": "Learn how to analyze the time complexity and the space complexity of an algorithm by using the big O notation",
     
@@ -86,7 +86,7 @@
 },
     {
     "id": 5,
-    "name": "Computer Simulation of Realistic Mathematical Models",
+    "name": "Computer Simulation of Realistic Mathematics",
     "price": 24.99,
     "description": "How to model the interaction between prey and predators, as well as the evolution of epidemics",
     
@@ -107,7 +107,7 @@
 },
     {
     "id": 6,
-    "name": "Computer Science: Understand the Theory Behind Programming",
+    "name": "Computer Science: The Theory of Programming",
     "price": 20.99,
     "description": "Computer Science: Learn Computer Science to become a better programmer and software engineer.",
     
