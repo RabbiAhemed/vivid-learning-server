@@ -1,0 +1,129 @@
+[
+    {
+    "id": 1,
+    "name": "Complete Algorithms Complexity and Big O Notation Course ",
+    "price": 17.99,
+    "description": "From beginner to professional in 2 hours!",
+    
+    "image": "https://www.happycoders.eu/wp-content/uploads/2020/05/big-o-notation-time-complexity-easily-explained-v3-800x450.jpg",
+    "rating": {
+    "rate": 4.7,
+    "count": 544
+    },
+    "duration":2,
+    "author":"Cronis Academy",
+    "outcome":[
+        "Algorithm Time and Space Complexity Evaluation",
+        "Big O Notation",
+        "Time Complexity Cases",
+        "log N Complexity",
+        "Space Complexity"
+    ]
+},
+
+{
+    "id": 2,
+    "name": "Time and space complexity analysis (big-O notation) ",
+    "price": 13.99,
+    "description": "Learn how to analyze the time complexity and the space complexity of an algorithm by using the big O notation",
+    
+    "image": "https://www.cselectricalandelectronics.com/wp-content/uploads/2021/03/time-Complexity-and-space-Complexity.jpg",
+    "rating": {
+    "rate": 4.4,
+    "count": 69
+    },
+    "duration":7.5,
+    "author":"Inside Code",
+    "outcome":[
+        "Analyze the time and space complexity of an algorithm",
+        "Complexity of searching and sorting algorithms",
+        "Compare the complexity of two algorithms",
+        "Complexity of data structures main operations",
+        "Space Complexity"
+    ]
+},
+    {
+    "id": 3,
+    "name": "Introduction to Computer Science ",
+    "price": 9.99,
+    "description": "Understand the basic concepts behind Computers, Programming Languages, Latest Frameworks and Job Opportunities",
+    
+    "image": "https://www.lunarcomputercollege.com/wp-content/uploads/2021/03/Introduction-to-computer-science.jpg",
+    "rating": {
+    "rate": 4.4,
+    "count": 60
+    },
+    "duration":1,
+    "author":"Techy Chalks",
+    "outcome":[
+        "Understand about computer",
+       "Understand about computer software",
+        "Understand about computer hardware",
+        "Understand about computer uses",
+        "Understand about latest framework"
+    ]
+},
+    {
+    "id": 4,
+    "name": "Binary: The Foundation of All Computing",
+    "price": 15.99,
+    "description": "Learn how technology works at the foundation. You'll be able to read and write binary and see how it all fits together.",
+    
+    "image": "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/A-Laptop-with-a-Screen-Covered-in-Numbers.png",
+    "rating": {
+    "rate": 4.4,
+    "count": 20
+    },
+    "duration":6,
+    "author":"Atchuyt Kumar",
+    "outcome":[
+        "Detailed discussion on IPv4 Variable Length Subnetmask (VLSM) with example networks.",
+        "IPv4 Classification : Class A, B, C, D and E (Theoretical and Practical Discussion)",
+        "This course will prepare students to answer any type of Questions from IPv4, Subnetting and IP(Maximum Transmission Unit).",
+        "Detailed discussion on Fixed Length Subnetmask (FLSM)",
+        "Broadcast IP address for network and subnetwork."
+    ]
+},
+    {
+    "id": 5,
+    "name": "Computer Simulation of Realistic Mathematical Models",
+    "price": 24.99,
+    "description": "How to model the interaction between prey and predators, as well as the evolution of epidemics",
+    
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMuuaYC4kocINT703rRwc7k5OVWwGbcU4xSQ&usqp=CAU",
+    "rating": {
+    "rate": 3.8,
+    "count": 26
+    },
+    "duration":1.5,
+    "author":"Emanule Pesaresi",
+    "outcome":[
+        "How to create and interpret computer simulations of real-life mathematical models using open-source software",
+        "How epidemics evolve",
+        "How the parameters of the model affect results",
+        "How the prey-predator model (or Lotka-Volterra model) explains a variety of real-world phenomena",
+        "Learn about applied mathematics"
+    ]
+},
+    {
+    "id": 6,
+    "name": "Computer Science: Understand the Theory Behind Programming",
+    "price": 20.99,
+    "description": "Computer Science: Learn Computer Science to become a better programmer and software engineer.",
+    
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JLfDMf6fF7yHdQUw6CGCO8OIXwXA8yKEaQ&usqp=CAU",
+    "rating": {
+    "rate": 4.1,
+    "count": 11
+    },
+    "duration":2.5,
+    "author":"Mark Englander",
+    "outcome":[
+        "Understand the fundamental theories of computer science theory",
+        "Understand basic concepts of programming and programming languages",
+        "Have an overview of what computer science has to offer",
+        "Understand basic concepts of software programming (in Java, Python, C++)",
+        "Understand how computers work"
+    ]
+}
+]
