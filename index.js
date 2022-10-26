@@ -4,7 +4,7 @@ const cors = require("cors");
 app.use(cors());
 const Port = process.env.Port || 5000;
 const courses = require("./Data/courses.json");
-
+//
 app.get("/", (req, res) => {
   res.send("server running");
 });
@@ -36,3 +36,5 @@ app.get("/course/:name", (req, res) => {
 app.listen(Port, () => {
   console.log("running on port", Port);
 });
+
+module.exports = app;
