@@ -22,3 +22,17 @@ app.get("/course/:id", (req, res) => {
 
   res.send(getSingleCourse);
 });
+// get a single course by name
+app.get("/course/:name", (req, res) => {
+  const name = req.params.name;
+  const getCourseByName = courses?.filter((course) => course.name == name);
+  if (!getCourseByName) {
+    res.send("no course available for this name");
+  }
+
+  res.send(getCourseByName);
+});
+
+app.listen(Port, () => {
+  console.log("running on port", Port);
+});
