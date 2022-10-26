@@ -12,3 +12,13 @@ app.get("/", (req, res) => {
 app.get("/allCourses", (req, res) => {
   res.send(courses);
 });
+// get a single course by id
+app.get("/course/:id", (req, res) => {
+  const id = req.params.id;
+  const getSingleCourse = courses?.find((course) => course.id == id);
+  if (!getSingleCourse) {
+    res.send("no course available for this id");
+  }
+
+  res.send(getSingleCourse);
+});
